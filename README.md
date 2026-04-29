@@ -9,7 +9,7 @@ Data Cleaning & Preparation Project
 =============================
 ----------
 🚀 Overview
----------------
+--------------
 
 This project focuses on cleaning and preparing a raw e-commerce dataset to make it suitable for analysis. It was completed as part of my internship at DecodeLabs.
 
